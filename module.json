@@ -1,0 +1,52 @@
+{
+  "name": "wfrp4e-morrsliebphase",
+  "title": "WFRP4e - Morrslieb Phase",
+  "description": "A module to know Morrslieb's phase tonight.",  
+  "version": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "author": "Txus",
+  "system": ["wfrp4e"],
+  "dependencies": [
+    {
+      "name": "wfrp4e",
+	    "type": "system"
+    }
+  ],  
+  "esmodules": [],
+  "scripts": [],
+  "styles": [],
+  "packs": [
+	{
+	    "name": "morrsliebmacros",
+            "label": "Morrslieb Macros",
+            "system": "wfrp4e",
+            "module": "wfrp4e-morrsliebphase",
+            "path": "./packs/morrslieb-macros.db",
+            "type": "Macro"
+        },
+        {
+            "name": "morrsliebtable",
+            "label": "Morrslieb Table",
+            "system": "wfrp4e",
+            "module": "wfrp4e-morrsliebphase",
+            "path": "./packs/morrslieb-table.db",
+            "type": "RollTable"
+        }
+	],
+  "languages": [{
+  	"lang": "en",
+  	"name": "English",
+  	"path": "./lang/en.json"  	
+	},
+	{
+  	"lang": "es",
+  	"name": "Español",
+  	"path": "./lang/es.json"  	
+	}
+  ],
+  "url": ["https://github.com/Txus5012/WFRP4e-morrsliebphase"],
+  "manifest": "https://github.com/Txus5012/WFRP4e-morrsliebphase/releases/latest/download/module.json",
+  "download": "https://github.com/Txus5012/WFRP4e-morrsliebphase/releases/download/v1.0.0/wfrp4e-morrsliebphase.zip",
+  "readme": "https://github.com/Txus5012/WFRP4e-morrsliebphase#readme"
+}
