@@ -1,0 +1,304 @@
+{
+  "search": "",
+  "melee": {
+  },
+  "range": {
+  },
+  "static": {
+  },
+  "templates": {
+  },
+  "auras": {
+  },
+  "preset": {
+  },
+  "aefx": {
+    "0": {
+      "below": false,
+      "hidden": true,
+      "name": "Ardiendo",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Ablaze",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "1": {
+      "below": false,
+      "hidden": true,
+      "name": "Envenenado",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Poisoned",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "2": {
+      "below": false,
+      "hidden": true,
+      "name": "Cegado",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Blinded",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "3": {
+      "below": false,
+      "hidden": true,
+      "name": "Aturdido",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Stunned",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "4": {
+      "below": false,
+      "hidden": true,
+      "name": "Quebrantado",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Broken",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "5": {
+      "below": false,
+      "hidden": true,
+      "name": "Miedo",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Fear",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "6": {
+      "below": false,
+      "hidden": true,
+      "name": "Enmara\u00F1ado",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Entangled",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "7": {
+      "below": false,
+      "hidden": true,
+      "name": "Sangrando",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Bleeding",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "8": {
+      "below": false,
+      "hidden": true,
+      "name": "Consumir Alcohol",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Stunned",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "9": {
+      "below": false,
+      "hidden": true,
+      "name": "Exposici\u00F3n al Fr\u00EDo",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Cold Exposure",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "10": {
+      "below": false,
+      "hidden": true,
+      "name": "Exposici\u00F3n al Calor",
+      "soundOnly": {
+        "enable": false
+      },
+      "macro": {
+        "enable": true,
+        "playWhen": "2",
+        "name": "Heat Exposure",
+        "args": ""
+      },
+      "aeType": "",
+      "type": "source",
+      "menuType": "",
+      "animation": "",
+      "variant": "",
+      "color": "",
+      "custom": false,
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    }
+  },
+  "version": 4
+}
