@@ -11,7 +11,7 @@ This module allows to roll each night in a table to see in which phase is the ra
 Instructions in [the wiki](https://github.com/Txus5012/WFRP4e-FX/wiki/Morrslieb-Phase).
 
 ### Condition FX
-With this module you can add some fancy FX to a Token when some of the Cnditions are applied.
+With this module you can add some fancy FX to a Token when some of the Conditions are applied.
 
 https://user-images.githubusercontent.com/87753744/174755247-85bc5280-bf98-4376-a1e1-3c2fda6bc6d2.mp4
 
