@@ -1,6 +1,12 @@
 {
   "title": "WFRP4e - FX",
   "description": "A module add FX to your WFRP4e games.",
+  "authors": [
+    {
+      "name": "Txus",
+      "flags": {}
+    }
+  ],
   "url": "https://github.com/Txus5012/WFRP4e-FX",
   "readme": "https://github.com/Txus5012/WFRP4e-FX#readme",
   "version": "1.1.2",
