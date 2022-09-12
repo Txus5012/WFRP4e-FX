@@ -1,30 +1,21 @@
 {
-  "name": "wfrp4e-fx",
   "title": "WFRP4e - FX",
   "description": "A module add FX to your WFRP4e games.",
-  "author": "Txus",
-  "authors": [],
-  "url": [
-    "https://github.com/Txus5012/WFRP4e-FX"
-  ],
+  "url": "https://github.com/Txus5012/WFRP4e-FX",
   "readme": "https://github.com/Txus5012/WFRP4e-FX#readme",
-  "flags": {},
-  "version": "1.1.1",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
+  "version": "1.1.2",
   "languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "./lang/en.json"
+      "path": "lang/en.json",
+      "flags": {}
     },
     {
       "lang": "es",
       "name": "Español",
-      "path": "./lang/es.json"
+      "path": "lang/es.json",
+      "flags": {}
     }
   ],
   "packs": [
@@ -32,36 +23,35 @@
       "name": "wfrp4efxmacros",
       "label": "WFRP4e FX Macros",
       "system": "wfrp4e",
-      "module": "wfrp4e-fx",
-      "path": "./packs/wfrp4efx-macros.db",
+      "path": "packs/wfrp4efx-macros.db",
       "type": "Macro",
-      "entity": "Macro",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "name": "morrsliebtable",
       "label": "Morrslieb Table",
       "system": "wfrp4e",
-      "module": "wfrp4e-fx",
-      "path": "./packs/morrslieb-table.db",
+      "path": "packs/morrslieb-table.db",
       "type": "RollTable",
-      "entity": "RollTable",
-      "private": false
+      "private": false,
+      "flags": {}
     }
   ],
-  "system": [
-    "wfrp4e"
-  ],
-  "dependencies": [
-    {
-      "name": "wfrp4e",
-      "type": "system"
-    }
-  ],
-  "socket": false,
   "manifest": "https://github.com/Txus5012/WFRP4e-FX/releases/latest/download/module.json",
   "download": "https://github.com/Txus5012/WFRP4e-FX/releases/download/v1.1.1/wfrp4e-fx.zip",
-  "protected": false,
-  "coreTranslation": false,
-  "library": false
+  "id": "wfrp4e-fx",
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
 }
