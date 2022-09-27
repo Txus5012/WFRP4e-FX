@@ -24,4 +24,4 @@ Instructions in [the wiki](https://github.com/Txus5012/WFRP4e-FX/wiki/Condition-
 ## Dependencies
 For Morrslieb Phase there is no dependencies, but there will be a nicer effect if you've installed the [FX Master](https://github.com/ghost-fvtt/fxmaster) module (like the button in the WFRP4e system).
 
-Condition FX requires the modules [Token Magic FX](https://github.com/Feu-Secret/Tokenmagic) and [Automated Animations](https://github.com/otigon/automated-jb2a-animations).
+Condition FX requires the modules [Token Magic FX](https://github.com/Feu-Secret/Tokenmagic), [Automated Animations](https://github.com/otigon/automated-jb2a-animations) con sus dependencias y [Advanced Macros](https://github.com/League-of-Foundry-Developers/fvtt-advanced-macros).
