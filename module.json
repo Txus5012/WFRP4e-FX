@@ -4,12 +4,13 @@
   "authors": [
     {
       "name": "Txus",
+      "url": "https://ko-fi.com/txus5012",
       "flags": {}
     }
   ],
   "url": "https://github.com/Txus5012/WFRP4e-FX",
   "readme": "https://github.com/Txus5012/WFRP4e-FX#readme",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "languages": [
     {
       "lang": "en",
@@ -51,7 +52,7 @@
     }
   ],
   "manifest": "https://github.com/Txus5012/WFRP4e-FX/releases/latest/download/module.json",
-  "download": "https://github.com/Txus5012/WFRP4e-FX/releases/download/v1.1.3/wfrp4e-fx.zip",
+  "download": "https://github.com/Txus5012/WFRP4e-FX/releases/download/v1.1.4/wfrp4e-fx.zip",
   "id": "wfrp4e-fx",
   "relationships": {
     "systems": [
