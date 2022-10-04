@@ -22,6 +22,12 @@
       "name": "Español",
       "path": "lang/es.json",
       "flags": {}
+    },
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "lang/pl.json",
+      "flags": {}
     }
   ],
   "packs": [
