@@ -1,4 +1,7 @@
 {
+"settings.light&vision.name": "Apply Light and Vision Changes",
+"settings.light&vision.hint": "Allows the macros to change the token's light and vision data.",
+
 "MORRSLIEB.TableLanguage": "Morrslieb (Polski)",
 "MORRSLIEB.FullMoon": "Pełnia Księżyca"
 }

@@ -1,4 +1,7 @@
 {
+"settings.light&vision.name": "Aplicar Cambios de Luz y Visi\u00F3n",
+"settings.light&vision.hint": "Permite a las macros cambiar los datos de luz y visi\u00F3n del icono.",
+
 "MORRSLIEB.TableLanguage": "Morrslieb (Castellano)",
 "MORRSLIEB.FullMoon": "Luna Llena"
 }
