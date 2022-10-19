@@ -10,7 +10,7 @@
   ],
   "url": "https://github.com/Txus5012/WFRP4e-FX",
   "readme": "https://github.com/Txus5012/WFRP4e-FX#readme",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "languages": [
     {
       "lang": "en",
@@ -49,11 +49,22 @@
       "type": "RollTable",
       "private": false,
       "flags": {}
+    },
+    {
+      "name": "wfrp4e-fx",
+      "label": "WFRP4e-FX",
+      "system": "wfrp4e",
+      "path": "packs/wfrp4e-fx.db",
+      "type": "Adventure",
+      "private": false,
+      "flags": {}
     }
   ],
-  "scripts": ["module/settings.js"],
+  "scripts": [
+    "module/settings.js"
+  ],
   "manifest": "https://github.com/Txus5012/WFRP4e-FX/releases/latest/download/module.json",
-  "download": "https://github.com/Txus5012/WFRP4e-FX/releases/download/v1.1.5/wfrp4e-fx.zip",
+  "download": "https://github.com/Txus5012/WFRP4e-FX/releases/download/v1.1.6/wfrp4e-fx.zip",
   "id": "wfrp4e-fx",
   "relationships": {
     "systems": [
@@ -64,6 +75,8 @@
       }
     ]
   },
+  "minimumCoreVersion" : "9",
+  "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
