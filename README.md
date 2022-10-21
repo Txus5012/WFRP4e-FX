@@ -15,7 +15,7 @@ With this module you can add some fancy FX to a Token when some of the Condition
 
 https://user-images.githubusercontent.com/87753744/174755247-85bc5280-bf98-4376-a1e1-3c2fda6bc6d2.mp4
 
-So far the Conditions included are: Ablaze, Blinded, Entangled, Fear, Poisoned, Stunned and Terror.
+So far the Conditions included are: Ablaze, Blinded, Entangled, Fatigued, Fear, Poisoned, Stunned and Terror.
 
 It also includes the System effects: Consume Alcohol (the same effect as Stunned), Cold Exposure (all levels) and Heat Exposure (all levels).
 
