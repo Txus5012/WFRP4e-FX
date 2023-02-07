@@ -2,6 +2,12 @@
 
 A module for the [Warhammer Fantasy Roleplay 4th Edition](https://foundryvtt.com/packages/wfrp4e) system for Foundrt VTT. This module adds some FX to the game (see below).
 
+## Installation
+Copy the following link and paste it in Add-On Modules => Install Module => Manifest URL
+
+https://github.com/Txus5012/WFRP4e-FX/releases/latest/download/module.json
+![Installation](https://user-images.githubusercontent.com/87753744/217327313-8a8f35db-e75c-4780-99dc-03b85a130f7d.jpg)
+
 ## Instructions
 
 ### Morrslieb Phase
