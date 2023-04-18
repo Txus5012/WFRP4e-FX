@@ -75,6 +75,8 @@
       }
     ]
   },
+  "minimumCoreVersion" : "9",
+  "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
