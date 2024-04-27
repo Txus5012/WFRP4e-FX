@@ -2,7 +2,7 @@
   "aefx": [
     {
       "id": "737150c4-8e14-43f6-96a1-44a038fc2c39",
-      "label": "Consumir Alcohol",
+      "name": "Consumir Alcohol",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -134,7 +134,7 @@
     },
     {
       "id": "6e187487-7d14-4251-aed8-51d8b05ff73b",
-      "label": "Exposici\u00F3n al Fr\u00EDo",
+      "name": "Exposici\u00F3n al Fr\u00EDo",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -266,7 +266,7 @@
     },
     {
       "id": "af17089f-9c50-4992-b510-f2e5571cf231",
-      "label": "Exposici\u00F3n al Calor",
+      "name": "Exposici\u00F3n al Calor",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -398,7 +398,7 @@
     },
     {
       "id": "be589761-0417-4144-b064-45044952a35f",
-      "label": "Enmara\u00F1ado",
+      "name": "Enmara\u00F1ado",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -530,7 +530,7 @@
     },
     {
       "id": "d288ce92-769f-48ca-bdbf-67d2f28612e1",
-      "label": "Sangrando",
+      "name": "Sangrando",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -662,7 +662,7 @@
     },
     {
       "id": "aaa9502e-a94f-4e97-ab33-c125579f1653",
-      "label": "Envenenado",
+      "name": "Envenenado",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -794,7 +794,7 @@
     },
     {
       "id": "0707a683-e177-44eb-8b75-9c60a6a6e840",
-      "label": "Cegado",
+      "name": "Cegado",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -926,7 +926,7 @@
     },
     {
       "id": "e2f3c78e-c552-41de-8ab6-b350fbdaedb4",
-      "label": "Aturdido",
+      "name": "Aturdido",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "106eea0a-55b5-4725-8bfd-d37c26834c7d",
-      "label": "Ardiendo",
+      "name": "Ardiendo",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -1190,7 +1190,7 @@
     },
     {
       "id": "261a79ab-3ed8-4273-8628-ea30f00b0a54",
-      "label": "Quebrantado",
+      "name": "Quebrantado",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -1322,7 +1322,7 @@
     },
     {
       "id": "8f4ee957-67cc-4d23-a8c4-091e5d311bd1",
-      "label": "Fatigado",
+      "name": "Fatigado",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -1454,7 +1454,7 @@
     },
     {
       "id": "6d475783-5dba-4f68-bb94-645893b26b14",
-      "label": "Inconsciente",
+      "name": "Inconsciente",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -1587,7 +1587,7 @@
     },
     {
       "id": "00089d66-50e3-44ea-aca6-19acd5a44447",
-      "label": "Sorprendido",
+      "name": "Sorprendido",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
@@ -1720,7 +1720,7 @@
     },
     {
       "id": "817f3cdf-107e-46f1-bfa1-0c756f4cea66",
-      "label": "Miedo",
+      "name": "Miedo",
       "activeEffectType": "ontoken",
       "menu": "aefx",
       "macro": {
