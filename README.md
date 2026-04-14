@@ -6,7 +6,7 @@ A module for the [Warhammer Fantasy Roleplay 4th Edition](https://foundryvtt.com
 Copy the following link and paste it in Add-On Modules => Install Module => Manifest URL
 
 https://github.com/Txus5012/WFRP4e-FX/releases/latest/download/module.json
-![Installation](https://user-images.githubusercontent.com/87753744/217327313-8a8f35db-e75c-4780-99dc-03b85a130f7d.jpg)
+![Installation](https://github.com/user-attachments/assets/6b0b4d38-fbe8-406b-aa0a-9a749019c093)
 
 ## Instructions
 
